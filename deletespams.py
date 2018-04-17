@@ -38,6 +38,8 @@ def main():
                        ON='17-Apr-2018',
                        FROM='baldeahmedtidiane36@gmail.com')
 
+    deletemails(imapObj, uids)
+
     logout(imapObj, 'imap')
 
 
