@@ -19,8 +19,9 @@ You can add the date and the person's email you want to delete emails from. For 
                      
  deletemails(imapObj, uids)
  ```
+ Of course, you will not forget to change the value of parameters (FROM, ON, etc...)
  
- You can **select** the folder where to search from emails, for those who have **gmail**, you might have the choices below:
+ You can **select** the folder where to search for emails, for those who have **gmail**, you might have the choices below:
      
     'INBOX'
     '[Gmail]'
@@ -32,7 +33,7 @@ You can add the date and the person's email you want to delete emails from. For 
     '[Gmail]/Suivis'
     '[Gmail]/Tous les messages'
    
-And you can add many many filters in the parameters, in this exemple i added just ON and FROM but you can use the link below
+And you can add many many filters in the parameters, in this exemple i added only ON and FROM but you can use the link below
 in the chapter *Sending emails and Text messages*, section *Performing the search*, to add more parameters:
 
 https://automatetheboringstuff.com/chapter16/
