@@ -33,10 +33,14 @@ You can add the date and the person's email you want to delete emails from. For 
     '[Gmail]/Tous les messages'
    
 And you can add many many filters in the parameters, in this exemple i added just ON and FROM but you can use the link below
-in the sections sending emails/Performing search, to add more parameters:
+in the chapter *Sending emails and Text messages*, section *Performing the search*, to add more parameters:
 
-[https://automatetheboringstuff.com/chapter16/]
+https://automatetheboringstuff.com/chapter16/
 
 In the next versions, I'll try to automate the process of deleting mails within the command line.
 
 Have **fun** and great **spamming** !
+
+
+## References ##
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
