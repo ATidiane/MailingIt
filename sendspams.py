@@ -1,5 +1,4 @@
 """ This file contains only the main function for sending a lot of spams.
-I wish you a wonderful spaming
 
 @author: Ahmed Tidiane BALDE
 
