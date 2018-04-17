@@ -19,7 +19,7 @@ You can add the date and the person's email you want to delete emails from. For 
  
  You can select the folder where to search from emails, for those who have gmail, you might have the choices below:
      
-   'INBOX'
+    'INBOX'
     '[Gmail]'
     '[Gmail]/Brouillons'
     '[Gmail]/Corbeille'
