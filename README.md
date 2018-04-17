@@ -39,4 +39,4 @@ in the sections sending emails/Performing search, to add more parameters:
 
 In the next versions, I'll try to automate the process of deleting mails within the command line.
 
-Have **fun** and graet **spamming** !
+Have **fun** and great **spamming** !
