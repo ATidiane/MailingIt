@@ -15,7 +15,7 @@ You can add the date and the person's email you want to delete emails from. For 
  uids = searchmails(imapObj,
                     '[Gmail]/Messages envoyés',
                      ON='17-Apr-2018',
-                     FROM='baldeahmedtidiane36@gmail.com')
+                     FROM='mail.gmail.com')
                      
  deletemails(imapObj, uids)
  ```
